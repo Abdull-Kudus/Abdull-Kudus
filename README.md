@@ -10,24 +10,25 @@ I am a software engineer dedicated to transforming innovative ideas into impactf
 - [Bayanlux](http://bayanlux.vercel.app/)
 
 
-My Github stats:
-<a href="https://github.com/Abdull-Kudus/github-readme-stats">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdull-Kudus&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" />
-</a>
-<a href="https://github.com/Abdull-Kudus/github-readme-stats">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdull-Kudus&show_icons=true&theme=dracula&hide_border=true&layout=compact" />
-</a>
+### My Github stats:
 
-<br/>
-
-<a href="https://github.com/Abdull-Kudus">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdull-Kudus&theme=dracula&hide_border=true" />
-</a>
+<p align="center">
+  <a href="https://github.com/Abdull-Kudus/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Abdull-Kudus&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" height="180em" />
+  </a>
+  <a href="https://github.com/Abdull-Kudus/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdull-Kudus&show_icons=true&theme=dracula&hide_border=true&layout=compact" height="180em" />
+  </a>
+</p>
 
 <br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abdull-Kudus&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Abdull-Kudus&icon=0&color=0" />
+  </a>
+</p>
 
 ### My Favorite Languages/frameworks
 - JavaScript (React/Next.js/Node.js)
