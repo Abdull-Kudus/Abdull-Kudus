@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hello! I am Abdul Kudus 👋
 
-<!--
-**Abdull-Kudus/Abdull-Kudus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineer dedicated to transforming innovative ideas into impactful software solutions. With a strong foundation in computer science and proficiency in JavaScript, Python, and Figma, I build scalable platforms with a focus on FinTech, Blockchain, and Real Estate. I am a creative problem-solver and collaborative leader who thrives on code quality, API design, and the intersection of engineering and financial markets. Driven by curiosity and a commitment to consistency, I am an effective communicator and leader who excels in collaborative environments, and I am eager to adopt new technologies, contribute my full-stack expertise to global communities, and grow as an engineer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Reach Me Out:
+- Email: abdulkuduszm@gmail.com
+
+### Some of my projects
+- [Bayanlux](http://bayanlux.vercel.app/)
+
+
+My Github stats:
+<a href="https://github.com/Abdull-Kudus/github-readme-stats">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdull-Kudus&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" />
+</a>
+<a href="https://github.com/Abdull-Kudus/github-readme-stats">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdull-Kudus&show_icons=true&theme=dracula&hide_border=true&layout=compact" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Abdull-Kudus">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdull-Kudus&theme=dracula&hide_border=true" />
+</a>
+
+<br/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Abdull-Kudus&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### My Favorite Languages/frameworks
+- JavaScript (React/Next.js/Node.js)
+- TypeScript
+- NextJs
+- NestJs
+- Java
+- Python
