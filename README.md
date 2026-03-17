@@ -23,11 +23,6 @@ I am a software engineer dedicated to transforming innovative ideas into impactf
 
 <br/>
 
----
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Abdull-Kudus&icon=0&color=0" />
-  </a>
 </p>
 
 ### My Favorite Languages/frameworks
