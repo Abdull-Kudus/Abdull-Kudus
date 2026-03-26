@@ -15,8 +15,6 @@ I am a software engineer dedicated to transforming innovative ideas into impactf
 
 
 
-
-
 ### My Github stats:
 
 <p align="center">
@@ -28,14 +26,9 @@ I am a software engineer dedicated to transforming innovative ideas into impactf
   </a>
 </p>
 
-<br/>
-
-</p>
-
 ### My Favorite Languages/frameworks
-- JavaScript (React/Next.js/Node.js/Nest.js)
+- JavaScript (React/Next.js/Node.js)
 - TypeScript
 - NextJs
-- NestJs
 - Java
 - Python
