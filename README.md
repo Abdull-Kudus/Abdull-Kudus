@@ -20,11 +20,11 @@ I am a software engineer dedicated to transforming innovative ideas into impactf
 ### My Github stats:
 
 <p align="center">
-  <a href="https://github.com/Abdull-Kudus/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Abdull-Kudus&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" height="180em" />
+  <a href="https://github.com/Abdull-Kudus">
+    <img src="https://github-readme-stats.vercel.app/api?username=Abdull-Kudus&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula&cache_seconds=1800" height="180em" />
   </a>
-  <a href="https://github.com/Abdull-Kudus/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdull-Kudus&show_icons=true&theme=dracula&hide_border=true&layout=compact" height="180em" />
+  <a href="https://github.com/Abdull-Kudus">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdull-Kudus&show_icons=true&theme=dracula&hide_border=true&layout=compact&cache_seconds=1800" height="180em" />
   </a>
 </p>
 
