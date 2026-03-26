@@ -8,8 +8,11 @@ I am a software engineer dedicated to transforming innovative ideas into impactf
 - Email: abdulkuduszm@gmail.com
 
 
-### Some of my projects
+### Projects worked on
+- [Taag](https://www.taag.cc//)
+- [Techbase](https://www.jointechbase.co/)
 - [Bayanlux](http://bayanlux.vercel.app/)
+
 
 
 
@@ -30,7 +33,7 @@ I am a software engineer dedicated to transforming innovative ideas into impactf
 </p>
 
 ### My Favorite Languages/frameworks
-- JavaScript (React/Next.js/Node.js)
+- JavaScript (React/Next.js/Node.js/Nest.js)
 - TypeScript
 - NextJs
 - NestJs
