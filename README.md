@@ -10,7 +10,6 @@ I am a software engineer dedicated to transforming innovative ideas into impactf
 
 ### Projects worked on
 - [Taag](https://www.taag.cc//)
-- [Techbase](https://www.jointechbase.co/)
 - [Bayanlux](http://bayanlux.vercel.app/)
 
 
@@ -26,9 +25,9 @@ I am a software engineer dedicated to transforming innovative ideas into impactf
   </a>
 </p>
 
-### My Favorite Languages/frameworks
-- JavaScript (React/Next.js/Node.js)
+### My Favorite Languages
+- JavaScript 
 - TypeScript
-- NextJs
-- Java
 - Python
+- Java
+- C ++
