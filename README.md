@@ -1,6 +1,10 @@
 # Hello! I am Abdul Kudus 👋
 
-I am a software engineer dedicated to transforming innovative ideas into impactful software solutions. With a strong foundation in computer science and proficiency in JavaScript, Python, and Figma, I build scalable platforms with a focus on FinTech, Healthtech, Blockchain, and Real Estate. I am a creative problem-solver and collaborative leader who thrives on code quality, API design, and the intersection of engineering and financial markets. Driven by curiosity and a commitment to consistency, I am an effective communicator and leader who excels in collaborative environments, and I am eager to adopt new technologies, contribute my full-stack expertise to global communities, and grow as an engineer.
+Brave. Curious. Determined. Adventurous. Resilient. Those are adjectives that describe me. I simply love taking on new challenges. Experienced Software Developer in Front End and Backend Technologies, with interests in Machine Learning, NLP, and Deep Learning applications. Passionate about building scalable software solutions, developer tools, and intelligent systems that improve human lives.
+
+I’m also deeply interested in financial markets, crypto, and real estate, while contributing to technical communities and collaborating with teams to build impactful products.
+
+However, what truly sets me apart is my innate desire to solve complex problems and my unwavering passion for continuous learning.
 
 
 
