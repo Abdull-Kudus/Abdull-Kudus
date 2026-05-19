@@ -1,6 +1,6 @@
 # Hello! I am Abdul Kudus 👋
 
-Brave. Curious. Determined. Adventurous. Resilient. Those are adjectives that describe me. I simply love taking on new challenges. Experienced Software Developer in Front End and Backend Technologies, with interests in Machine Learning, NLP, and Deep Learning applications. Passionate about building scalable software solutions, developer tools, and intelligent systems that improve human lives.
+Brave. Curious. Determined. Adventurous. Resilient. Those are adjectives that describe me. I simply love taking on new challenges. Experienced Software Developer in Front End and Backend Technologies, with interests in Machine Learning, Quantitative Finance, NLP, and Deep Learning applications. Passionate about building scalable software solutions, developer tools, and intelligent systems that improve human lives.
 
 I’m also deeply interested in financial markets, crypto, and real estate, while contributing to technical communities and collaborating with teams to build impactful products.
 
