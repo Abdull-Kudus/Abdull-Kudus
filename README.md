@@ -5,12 +5,12 @@ I am a software engineer dedicated to transforming innovative ideas into impactf
 
 
 ## Reach Me Out:
-- Email: abdulkuduszm@gmail.com
+- Email: abdulkuduszakaria360@gmail.com
 
 
 ### Projects worked on
 - [Taag](https://www.taag.cc//)
-- [Bayanlux](http://bayanlux.vercel.app/)
+- [Bayanlux](https://www.bayanlux.com/)
 
 
 
