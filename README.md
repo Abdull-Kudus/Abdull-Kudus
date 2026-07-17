@@ -15,6 +15,7 @@ However, what truly sets me apart is my innate desire to solve complex problems 
 ### Projects worked on
 - [Taag](https://www.taag.cc//)
 - [Bayanlux](https://www.bayanlux.com/)
+- [Credit Score](https://credit-score-4a1w-wheat.vercel.app/)
 
 
 
