@@ -9,7 +9,13 @@ However, what truly sets me apart is my innate desire to solve complex problems 
 
 
 ## Reach Me Out:
-- Email: abdulkuduszakaria360@gmail.com
+
+<div>
+  <a href="mailto:abdulkuduszakaria360@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/abdull-kudus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://x.com/Iam_abdul_kudus" target="_blank"><img src="https://img.shields.io/badge/-X-%23000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/abdull_kuduss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
 
 ### Projects worked on
@@ -23,10 +29,10 @@ However, what truly sets me apart is my innate desire to solve complex problems 
 
 <p align="center">
   <a href="https://github.com/Abdull-Kudus">
-    <img src="https://github-readme-stats.vercel.app/api?username=Abdull-Kudus&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula&cache_seconds=1800" height="180em" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Abdull-Kudus&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula&cache_seconds=1800" height="180em" />
   </a>
   <a href="https://github.com/Abdull-Kudus">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdull-Kudus&show_icons=true&theme=dracula&hide_border=true&layout=compact&cache_seconds=1800" height="180em" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abdull-Kudus&show_icons=true&theme=dracula&hide_border=true&layout=compact&cache_seconds=1800" height="180em" />
   </a>
 </p>
 
